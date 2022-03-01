@@ -2,7 +2,7 @@
 
 <h3 align="center"><i>Welcome ! Kelv's Github</i></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophrosyneEunoia&theme=dark&show_icons=true"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophrosyneEunoia&theme=dark&show_icons=true&layout=compact&hide=html"></img>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SophrosyneEunoia&theme=dark&column=7&no-frame=true&show_icons=true"></img>
 </p>
