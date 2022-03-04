@@ -36,7 +36,7 @@ body {
     margin: 0 -5px;
 }
 
-.row p{
+.row p {
     text-align: justify;
 }
 
@@ -68,10 +68,18 @@ body {
 /* Style the counter cards */
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
     padding: 16px;
     text-align: center;
-    background-color: #f1f1f1;
-    height: 20rem;
-    /* width: 10rem; */
+    height: 470px;
+    width: 250px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.card:hover {
+    box-shadow: inherit 0 470px 0 0;
+    height: 507px;
+    width: 250px;
+    border: solid#00d450;
 }
