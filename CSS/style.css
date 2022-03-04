@@ -36,6 +36,10 @@ body {
     margin: 0 -5px;
 }
 
+.row p{
+    text-align: justify;
+}
+
 
 /* Clear floats after the columns */
 
